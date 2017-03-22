@@ -1,0 +1,14 @@
+{
+  "name": "inlinerServer",
+  "version": "1.0.0",
+  "description": "This server is meant to parse html for codereview.",
+  "main": "index.js",
+  "repository": "https://github.com/AngryDogs/inlinerServer",
+  "author": "rain.vink <rain.vink@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "inline-css": "^2.2.2"
+  }
+}
